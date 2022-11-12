@@ -1,0 +1,2 @@
+This is Lesson 1 of My book
+This line is written after the first commit
